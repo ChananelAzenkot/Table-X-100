@@ -19,7 +19,8 @@ In Multiplication Table, players solve multiplication problems within a specifie
 ## Features
 
 - Phone media: Enable seamless compatibility for optimal user experience.
-- Develops your mind and your math thinking for the better.
+- Helps you focus on your math skills and your memory.
+- you can change the color of the table between black and white for accessibility.
 
 ## How to Works
 

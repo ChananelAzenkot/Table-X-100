@@ -20,15 +20,18 @@ for (let i = 0; i <= 10; i++) {
     if (j == 0) {
       span.innerHTML = i + j;
       span.style.backgroundColor = getRandomColor();
+      span.style.color = getRandomColor();
+      span.classList.add("disable-hover");
       span.onclick = function () {
         num1 = i;
-        span.classList.add(".theColor");
         showResult();
       };
     }
     if (i == 0) {
       span.innerHTML = i + j;
       span.style.backgroundColor = getRandomColor();
+      span.style.color = getRandomColor();
+      span.classList.add("disable-hover");
       span.onclick = function () {
         num2 = j;
         showResult();
